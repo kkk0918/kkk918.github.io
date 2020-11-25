@@ -183,7 +183,7 @@ html, body{
 /*タイトル*/
 .my_introduction{
   margin: 0 auto;
-  background-image: url("image/toppage16.jpg");
+  background-image: url("image/coffee-1284041_1280.jpg");
   background-size: cover;
   padding: 300px 0 300px 0;
   color: black;
@@ -574,13 +574,13 @@ footer {
     width: 50%;
   }
   .service_section {
-    background-image: url("image/toppage14.jpg");
+    background-image: url("image/erik-mclean-aielvGxZB0g-unsplash.jpg");
     background-size: cover;
   }
 }
 @media screen and (min-width:1024px) {
   .profile_section {
-    background-image: url("image/toppage15.jpg");
+    background-image: url("image/beach-394503_1920.jpg");
     background-size: cover;
   }
   .skill_section {
@@ -611,7 +611,7 @@ footer {
     width: 30%;
   }
   .service_section {
-    background-image: url("image/toppage14.jpg");
+    background-image: url("image/anna-wangler-_GqwoiT7QY8-unsplash.jpg");
     background-size: cover;
   }
 }
