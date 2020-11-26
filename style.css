@@ -366,9 +366,9 @@ html, body{
 	width:			100%;
 	height:			100%;
 	visibility:		hidden;	/* 文字を表示しない */
-	font-size:		150%;
+	font-size:		100%;
 	position:		absolute;
-	top:			25px;
+	top:			15px;
 	left:			0;
 	text-align: center;
 	-webkit-transition:	all 0.4s step-end;
@@ -444,7 +444,7 @@ html, body{
 footer {
   color: black;
   padding-bottom: 20px;
-  background-image: url("image/toppage9.jpg");
+  background-image: url("image/olia-gozha-J4kK8b9Fgj8-unsplash.jpg");
   background-size: cover;
   padding-top: 100px;
 }
@@ -510,7 +510,7 @@ footer {
     background-size: cover;
   }
   .profile_section {
-    background-image: url("image/toppage15_2.jpg");
+    background-image: url("image/beach-394503_1920.jpg");
     background-size: cover;
   }
   .portfolio {
@@ -537,13 +537,13 @@ footer {
     width: 30%;
   }
   .service_section {
-    background-image: url("image/toppage14_2.jpg");
+    background-image: url("image/marc-noorman-vziulFIaVbw-unsplash.jpg");
     background-size: cover;
   }
 }
 @media screen and (min-width:768px) {
   .profile_section {
-    background-image: url("image/toppage15.jpg");
+    background-image: url("image/beach-394503_1920.jpg");
     background-size: cover;
   }
   .skill_section {
@@ -574,7 +574,7 @@ footer {
     width: 50%;
   }
   .service_section {
-    background-image: url("image/erik-mclean-aielvGxZB0g-unsplash.jpg");
+    background-image: url("image/marc-noorman-vziulFIaVbw-unsplash.jpg");
     background-size: cover;
   }
 }
@@ -611,7 +611,7 @@ footer {
     width: 30%;
   }
   .service_section {
-    background-image: url("image/toppage14.jpg");
+    background-image: url("image/marc-noorman-vziulFIaVbw-unsplash.jpg");
     background-size: cover;
   }
 }
